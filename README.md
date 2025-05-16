@@ -8,6 +8,7 @@ Python (Pandas, Seaborn, Matplotlib)
 Jupyter Notebook
 
 🔍 𝗞𝗲𝘆 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀:
+
 ▶️ RT2 (Elite) is the top choice, especially in Mumbai; RT1 (Standard) ranks second; RT4 (Presidential) sees the least demand.<br>
 ▶️ Delhi leads with 61.61% occupancy; Bangalore trails at 56.59%.<br>
 ▶️ Weekends showed higher guest traffic (72.39%) than weekdays (50.90%).<br>
@@ -16,6 +17,7 @@ Jupyter Notebook
 ▶️ Most of the bookings come from indirect channels like others and makeyourtrip.
 
 📌 **Recommendations:**
+
 🏨 Room Type Strategy:
 - Offer bundled packages (e.g., complimentary breakfast, spa access) to enhance value.
 - Offer add-on services (e.g., late check-out, room upgrades) to increase revenue per booking.
