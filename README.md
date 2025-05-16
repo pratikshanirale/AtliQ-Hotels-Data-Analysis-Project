@@ -21,7 +21,6 @@ Jupyter Notebook
 🏨 Room Type Strategy:
 - Offer bundled packages (e.g., complimentary breakfast, spa access) to enhance value.
 - Offer add-on services (e.g., late check-out, room upgrades) to increase revenue per booking.
-  
 📍 City-Specific Strategies:
 - Identify potential barriers to bookings, such as pricing or location, and address them.
 - Consider partnerships with local tech companies to offer corporate packages.
