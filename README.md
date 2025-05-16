@@ -1,9 +1,9 @@
 # AtliQ-Hotels-Data-Analysis-Project
 
-🤔 𝗣𝗿𝗼𝗯𝗹𝗲𝗺 𝗦𝘁𝗮𝘁𝗲𝗺𝗲𝗻𝘁:
+🤔 𝗣𝗿𝗼𝗯𝗹𝗲𝗺 𝗦𝘁𝗮𝘁𝗲𝗺𝗲𝗻𝘁:<br>
 The AtliQ Grands company is facing a major challenge from their competitors. They are loosing their Revenue and their Market share.
 
-🔧 𝗧𝗼𝗼𝗹𝘀 𝗨𝘀𝗲𝗱:
+🔧 𝗧𝗼𝗼𝗹𝘀 𝗨𝘀𝗲𝗱:<br>
 Python (Pandas, Seaborn, Matplotlib)
 Jupyter Notebook
 
